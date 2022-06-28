@@ -1,0 +1,47 @@
+fileFormatVersion: 2
+guid: de998e7903f36ec4cb59a9c9a09eefb1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - TopRed: {fileID: 185892, guid: 106038f4ca60a3a4d8c14e8d059e9424, type: 2}
+  - TopBlue: {fileID: 185892, guid: d15b3f1087d540c498ea0d833e40f35c, type: 2}
+  - TopGreen: {fileID: 185892, guid: f21a33f4aaf6bf547a918c0d04731027, type: 2}
+  - TopBlack: {fileID: 185892, guid: 6a3759ed37aa5e94ca832600aece9d80, type: 2}
+  - TopYellow: {fileID: 185892, guid: 7b4161645c941e643954ef8b262668ee, type: 2}
+  - MiddleRed: {fileID: 185892, guid: 900a6258bfe6dec428243a3c6a2a9464, type: 2}
+  - MiddleBlue: {fileID: 185892, guid: fd70c4cf0b69c144bbd09d942531eff9, type: 2}
+  - MiddleGreen: {fileID: 185892, guid: 9e86a690ad3801545bfafbf63ad5541b, type: 2}
+  - MiddleBlack: {fileID: 185892, guid: 5af6977213dc5194f9e70f88849445d6, type: 2}
+  - MiddleYellow: {fileID: 185892, guid: e6f469c4357a39c4bba31251cd2fe4d1, type: 2}
+  - BottomRed: {fileID: 185892, guid: 43884b6cd86804348b1351ed18d2978e, type: 2}
+  - BottomBlue: {fileID: 185892, guid: adb4bd98cfd31d7479645b115614de30, type: 2}
+  - BottomGreen: {fileID: 185892, guid: fede4b6569778994d8d72ed9e880086a, type: 2}
+  - BottomBlack: {fileID: 185892, guid: 851f1ad3779bb784788d6c2927da83cb, type: 2}
+  - BottomYellow: {fileID: 185892, guid: 491f53157bbf11249aa1a37951f2ebce, type: 2}
+  - HoleRed: {fileID: 185892, guid: ae58d49265625504f81607209a23117d, type: 2}
+  - HoleBlue: {fileID: 185892, guid: ee46c2b1807ccae4ea3319d87ee9ae8c, type: 2}
+  - HoleGreen: {fileID: 185892, guid: f97e6ee39747b934e884308bac2062ad, type: 2}
+  - HoleBlack: {fileID: 185892, guid: ea5ca6e0e254dd4479479d06ea247613, type: 2}
+  - HoleYellow: {fileID: 185892, guid: 5d06495d3ab097a4eb006adb28ed5961, type: 2}
+  - ColliderBlock1: {fileID: 186596, guid: 594095ca1c6f9d64984a34d1a4f4faae, type: 2}
+  - ColliderBlock2: {fileID: 186596, guid: d7cb758eeab65474aac843482c01b5fa, type: 2}
+  - ColliderBlock3: {fileID: 186596, guid: 9919fb2b020cd964285ec8ac1840f378, type: 2}
+  - InfoScreen: {fileID: 108924, guid: aac742539b1f849409e5a7c2c4554860, type: 2}
+  - Arrow: {fileID: 192642, guid: eb5476b30e22acd498b3ba0eefeaf819, type: 2}
+  - StartButton: {fileID: 138248, guid: 9641865990af58b46ad74a8989756e34, type: 2}
+  - TopDispPeg: {fileID: 185892, guid: 9a323f2485e3220498477d9de1f1f7f6, type: 2}
+  - MidDispPeg: {fileID: 185892, guid: a870777175e586341996ca4b18ec7d6e, type: 2}
+  - BotDispPeg: {fileID: 185892, guid: 6c9fd1d5a0187284f999cdccf715808d, type: 2}
+  - TopDispHole: {fileID: 185892, guid: f8e4b05f1a3aba84dbe73577625091fb, type: 2}
+  - MidDispHole: {fileID: 185892, guid: 35f6dd956e32f5a4c86872151713c32a, type: 2}
+  - BotDispHole: {fileID: 185892, guid: cbdb1eef071ae31478c4c9807c49ff46, type: 2}
+  - ScriptPegs: {fileID: 195280, guid: 72df9f80ba9c8d541819d7c8298fdf29, type: 2}
+  - ScriptHoles: {fileID: 113750, guid: 0c1ecb4ba8c89174c8598899c7db9f1b, type: 2}
+  - TopHole: {fileID: 185892, guid: 71f31a07de560e645b589b739835caf9, type: 2}
+  - MidHole: {fileID: 185892, guid: 5dd9517287db74742a2dc8660d9f9690, type: 2}
+  - BotHole: {fileID: 185892, guid: b0c5795b89da6f849a5a1d945baacfcf, type: 2}
+  - Lightoff: {fileID: 165900, guid: 9e7e536fa0e5de64b90dab102eaae104, type: 2}
+  - ScoreScreen: {fileID: 108924, guid: 167959b8dab1c60489aa1c274c0f8ff7, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

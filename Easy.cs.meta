@@ -1,0 +1,48 @@
+fileFormatVersion: 2
+guid: d9d423b35e847e049991267056e91875
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Myfont: {instanceID: 0}
+  - TopRed: {instanceID: 0}
+  - TopBlue: {instanceID: 0}
+  - TopGreen: {instanceID: 0}
+  - TopBlack: {instanceID: 0}
+  - TopYellow: {instanceID: 0}
+  - MiddleRed: {instanceID: 0}
+  - MiddleBlue: {instanceID: 0}
+  - MiddleGreen: {instanceID: 0}
+  - MiddleBlack: {instanceID: 0}
+  - MiddleYellow: {instanceID: 0}
+  - BottomRed: {instanceID: 0}
+  - BottomBlue: {instanceID: 0}
+  - BottomGreen: {instanceID: 0}
+  - BottomBlack: {instanceID: 0}
+  - BottomYellow: {instanceID: 0}
+  - HoleRed: {instanceID: 0}
+  - HoleBlue: {instanceID: 0}
+  - HoleGreen: {instanceID: 0}
+  - HoleBlack: {instanceID: 0}
+  - HoleYellow: {instanceID: 0}
+  - ColliderBlock1: {instanceID: 0}
+  - ColliderBlock2: {instanceID: 0}
+  - ColliderBlock3: {instanceID: 0}
+  - InfoScreen: {instanceID: 0}
+  - Arrow: {instanceID: 0}
+  - StartButton: {instanceID: 0}
+  - TopDispPeg: {instanceID: 0}
+  - MidDispPeg: {instanceID: 0}
+  - BotDispPeg: {instanceID: 0}
+  - TopDispHole: {instanceID: 0}
+  - MidDispHole: {instanceID: 0}
+  - BotDispHole: {instanceID: 0}
+  - ScriptPegs: {instanceID: 0}
+  - ScriptHoles: {instanceID: 0}
+  - TopHole: {instanceID: 0}
+  - MidHole: {instanceID: 0}
+  - BotHole: {instanceID: 0}
+  - Lightoff: {instanceID: 0}
+  - ScoreScreen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

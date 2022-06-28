@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 28647cf590fdd8747a79edaabd2e4acc
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Myfont: {instanceID: 0}
+  - BeepNoise: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

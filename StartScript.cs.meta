@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e76cfa5320ff20241be7750cd51b7b5b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Song3: {fileID: 145044, guid: de5f7766fbbb53040b250dfb5eedfc61, type: 2}
+  - Start1: {fileID: 108434, guid: 1c4a24523cf45804baa4e79c3f13bcea, type: 2}
+  - Musics: {fileID: 110536, guid: 0c63c8248329d6d4b8adef03c64845d4, type: 2}
+  - Records: {fileID: 112870, guid: 3975172a34c0f914883a8dad09cacd03, type: 2}
+  - Tutorial: {fileID: 190806, guid: 1a28223c0547b8b4696e2cf7bba7b136, type: 2}
+  - Quit: {fileID: 154288, guid: dd64e797fdc14cb4c98e8ecc1a54c699, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
